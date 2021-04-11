@@ -55,4 +55,7 @@ public class JugadorCampo extends Jugador
     public String toString(){
         return super.toString() + "\tPases: " + pases + "\tRegate: " + regate + "\tRemate: " + remate + "\tValoracion: " + valoracion() + "\t";
     }
+    public String toString2(){
+        return super.toString() + "\tPases: " + pases + "\tRegate: " + regate + "\tRemate: " + remate + "\tValoracion: " + valoracion() + "\t";
+    }
 }
