@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
+Linea que no se va a revertir
 /**
  * Write a description of class Liga here.
  * 
